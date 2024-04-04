@@ -1,7 +1,7 @@
 {
 "t2": {
-"title": "Celulares",
-"subtitle": "Proyectos Android",
+"title": "OptiMovil",
+"subtitle": "Proyectos Moviles",
 "e1": {
 "name": "OptiCraft PE 1.9",
 "l1": "https://www.mediafire.com/file/wmj066ndz4xrqw1"
@@ -28,7 +28,7 @@
 }
 },    
 "t1": {
-"title": "Emuladores",
+"title": "OptiEmulator",
 "subtitle": "Emuladores optimizados",
 "e1": {
 "name": "Citra",
@@ -75,7 +75,7 @@
 }
 },
 "t3": {
-"title": "Juegos",
+"title": "OptiJuegos",
 "subtitle": "Juegos optimizados",
 "e1": {
 "name": "Angry Birds",
@@ -473,7 +473,7 @@
 }
 },
 "t5": {
-"title": "Programas",
+"title": "OptiAplicaciones",
 "subtitle": "Programas optimizados",
 "e1": {
 "name": "Bandicam Portable",
@@ -609,7 +609,7 @@
 }
 },
 "t6": {
-"title": "Sistemas",
+"title": "OptiSistemas",
 "subtitle": "Sistemas optimizados",
 "e1": {
 "name": "OptiOS 7 X86 (Windows 7)",
